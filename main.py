@@ -1,1 +1,1 @@
-Coorect bug
+Corrected bug
